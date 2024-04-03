@@ -1,2 +1,2 @@
-# Implementaci-n-de-la-rob-tica-inteligente
-Implementación de un vehículo autónomo utilizando visión computacional y redes neuronales convolucionales
+#   Implementation of intelligent robotics
+Implementation of an autonomous vehicle using computer vision and convolutional neural networks.
